@@ -1,0 +1,32 @@
+About,
+    my name is okoli marvellous chidera. from Nigeria Anambra state. I am a Motivated undergraduate student with 
+    beginner to intermediate knowledge of
+HTML and astrong academic record (GPA 4.90). Passionate about learning
+front-end development and seeking a remote internship opportunity to gain
+practical experience, contribute to projects, and grow under guidance.
+
+skills,
+ HTML5(beginner to intermediate)
+ Structuring web pages (headings, paragraphs, links, images, lists, forms)
+ Basicsemantic HTML
+ Attention to detail
+ Willingness to learn
+ Timemanagement
+ Communication skills
+
+Education,
+Primary school, God's Own Academy Primary school (School link)  https://www.facebook.com/p/Gods-own-academy-Awka-100082819737862/
+Secondary school(High School), Holy Child Secondary school Isuofia (School link)
+University(College), Peter University Achina Onneh (School link)
+
+contact info,
+Phone: 07078071564
+Email: c0652330@gmail.com
+
+Social media,
+LinkedIn: linkedin.com/in/marvellous-okoli-65038a38b
+Github: https://github.com/marve26020
+Twitter: https://x.com/Marvellous20060
+
+footer,
+all right reserved
